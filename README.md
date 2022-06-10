@@ -1,6 +1,6 @@
 # Portifolio Pessoal
 
-## Um pequeno portifolio feito no curso Introdução ao React Native pela plataforma DIO.
+### Um pequeno portifolio feito no curso Introdução ao React Native pela plataforma DIO.
 
 ![Image](https://user-images.githubusercontent.com/104866760/173128243-0e892966-bae5-4c3c-99dc-a8c76d085071.jpeg)
 
