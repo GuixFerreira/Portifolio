@@ -5,7 +5,8 @@
 ![Image](https://user-images.githubusercontent.com/104866760/173128243-0e892966-bae5-4c3c-99dc-a8c76d085071.jpeg)
 
 ## 
-
+#### No curso foi usado o emulador Android Studio, mas no meu caso foi usado o Expo.
+##
 ### Conteudo:
 - Conhecendo o React Native
   - O que é react-native?
